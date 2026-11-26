@@ -1,0 +1,40 @@
+﻿REPORTE TECNICO DE DOSIFICACION DE CONCRETO / MORTERO
+Fecha,2026-11-26 00:54
+Uso / Elemento,Repello (Pañete)
+Proporcion normalizada (volumen suelto),1 : 4 : 0
+Proporcion normalizada (peso),1 : 4.96 : 0.00
+
+DATOS DE ENTRADA
+Uso / Clasificacion,Mortero 1:4 (a/c 0.7)
+Largo superficie (m),4
+Altura superficie (m),2.5
+Espesor panete (cm),2
+Caras,1
+Superficies iguales,1
+Modo dosificacion,volumen
+Proporcion normalizada vol.,1 : 4 : 0
+Proporcion normalizada peso,1 : 4.96 : 0.00
+Relacion a/c,0.7
+Desperdicio (%),5
+Recipiente elegido,Balde estándar (20 L)
+Volumen geometrico (m3),0.2000
+Volumen con desperdicio (m3),0.2100
+Rendimiento por tanda (L),149.50
+Consumo bultos/m3,6.69
+Numero de tandas,2
+
+TARJETA DE MEZCLA POR TANDA (1 bulto) — Recipiente: Balde estándar (20 L)
+Material,Cantidad en obra,Recipientes exactos,Recipientes redondeados (0.5),Desviacion (%)
+Cemento,50.0 kg (40.0 L),1 bulto,1 bulto,0.0%
+Arena humeda,200.0 L,10.00,10,+0.0%
+Agua a agregar,25.1 L,1.25,1.5,+19.6%
+
+PEDIDO TOTAL DE MATERIALES PARA OBRA
+Material,Cantidad a pedir,Observacion
+Cemento,2 bultos de 50 kg,100.0 kg (exacto: 1.40 bultos)
+Arena humeda,0.400 m3,equivale a 0.320 m3 de arena seca
+Grava,0.000 m3,no aplica (mortero)
+Agua neta,50.2 L,relacion a/c = 0.7 corregida por humedad
+
+ALERTAS DE OBRA
+DESVIACIÓN > 5 % EN AGUA: 25.1 L equivalen a 1.25 en «Balde estándar (20 L)». Al redondear a 1.5 se altera la dosificación en +19.6%.

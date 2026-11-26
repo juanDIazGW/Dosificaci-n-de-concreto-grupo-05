@@ -1,0 +1,35 @@
+﻿REPORTE TECNICO DE DOSIFICACION DE CONCRETO / MORTERO
+Fecha,2026-11-26 00:50
+Uso / Elemento,Placa de contrapiso
+Proporcion normalizada (volumen suelto),1 : 2 : 3
+Proporcion normalizada (peso),1 : 2.48 : 3.60
+
+DATOS DE ENTRADA
+Uso / Clasificacion,3000 PSI (20.7 MPa)
+Dimensiones L×A×E (m),4×3×0.1
+Cantidad,1
+Modo dosificacion,volumen
+Proporcion normalizada vol.,1 : 2 : 3
+Proporcion normalizada peso,1 : 2.48 : 3.60
+Relacion a/c,0.5
+Desperdicio (%),5
+Recipiente elegido,Balde estándar (20 L)
+Volumen geometrico (m3),1.2000
+Volumen con desperdicio (m3),1.2600
+Rendimiento por tanda (L),159.94
+Consumo bultos/m3,6.25
+Numero de tandas,8
+
+TARJETA DE MEZCLA POR TANDA (1 bulto) — Recipiente: Balde estándar (20 L)
+Material,Cantidad en obra,Recipientes exactos,Recipientes redondeados (0.5),Desviacion (%)
+Cemento,50.0 kg (40.0 L),1 bulto,1 bulto,0.0%
+Arena humeda,100.0 L,5.00,5,+0.0%
+Grava,120.0 L,6.00,6,+0.0%
+Agua a agregar,20.0 L,1.00,1,-0.2%
+
+PEDIDO TOTAL DE MATERIALES PARA OBRA
+Material,Cantidad a pedir,Observacion
+Cemento,8 bultos de 50 kg,400.0 kg (exacto: 7.88 bultos)
+Arena humeda,0.800 m3,equivale a 0.640 m3 de arena seca
+Grava,0.960 m3,agregado grueso
+Agua neta,160.3 L,relacion a/c = 0.5 corregida por humedad

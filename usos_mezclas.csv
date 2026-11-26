@@ -1,0 +1,8 @@
+﻿nombre,categoria,psi_defecto,cemento,arena,grava,rel_ac,espesor_def,formulario,descripcion
+Pega de bloques,mortero,,1,4,0,0.70,1.5,pega_bloques,Mortero de pega 1:4 (a/c = 0.70) para mampostería. Calcula volumen real de juntas según bloque y espesor de pega.
+Repello (Pañete),mortero,,1,4,0,0.70,1.5,repello,Mortero 1:4 (a/c = 0.70) para recubrimiento de muros y cielos (espesor en cm y número de caras).
+Nivelación de piso,mortero,,1,3,0,0.60,4.0,nivelacion,Mortero 1:3 (a/c = 0.60) para nivelación de pisos y alistados (sin grava).
+Placa de contrapiso,concreto,3000,1,2,3,0.50,0.10,prisma_general,Concreto para contrapisos y senderos apoyados sobre terreno compactado.
+Zapata,concreto,3000,1,2,3,0.50,0.35,zapata,"Concreto estructural para cimentación superficial (base rectangular o circular, con pedestal opcional)."
+Columna,concreto,3500,1,2,2,0.45,3.00,columna,Concreto para elementos estructurales verticales (sección rectangular o cilíndrica).
+Viga,concreto,3500,1,2,2,0.45,0.30,prisma_general,Concreto para elementos estructurales horizontales (b x h x L x cantidad).
